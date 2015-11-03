@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "links": {
+    "self": {
+      "href": "http://local.com/articles",
+      "type": "application/json; version=1.0"
+    },
+    "next": {
+      "href": "http://local.com/articles?cursor=550a3114e771b70876a861c4",
+      "type": "application/json; version=1.0"
+    }
+  },
+  "meta": {},
+  "entities": [
+    {
+      "id": "54ec2098a56720c90772d15a",
+      "title": "TED My philosophy for a happy life - Sam Berns",
+      "body": "Sam Berns is a Junior at Foxboro High School in Foxboro, Massachusetts, where he has achieved highest honors and is currently a percussion section leader in the high school marching band. He recently achieved the rank of Eagle Scout in the Boy Scouts of America. Sam was diagnosed with Progeria, a rare, rapid aging disease, at the age of 2. He is featured in the documentary Life According to Sam, which will premiere on HBO on October 21, 2013.",
+      "image": "column1.png",
+      "createdAt": "2015-02-24T06:56:24.000Z"
+    },
+    {
+      "id": "54ec2045a56720c90772d159",
+      "title": "TED Why I read a book a day (and why you should too): The Law of 33%",
+      "body": "This talk was given at a local TEDx event, produced independently of the TED Conferences. Remember, everyone wants the good life but not everyone gets the good life because not everyone is willing to do what it takes. You must be different. You must do what most won’t.",
+      "image": "column2.png",
+      "createdAt": "2015-02-24T06:55:01.000Z"
+    },
+    {
+      "id": "54dda0d95bc3e184147f3475",
+      "title": "Virtual reality is already changing the world",
+      "body": "Virtual reality can make anything possible.\n\nFacebook has received all the hype,   but it is about far more than gaming and communication.\n\nHere are some of the things I've learnt that VR has already achieved.   \n\n1. Curing phantom pains in amputee victims: this is a common occurrence for amputee victims, who feel pain in a limb that isn't there. But a new research study has resulted in virtual reality technology to be able make it seem like a there is a limb causing a drastic improvement in phantom   pain.",
+      "image": "column3.png",
+      "createdAt": "2015-02-13T06:59:37.000Z"
+    }
+    
+  ]
+}
