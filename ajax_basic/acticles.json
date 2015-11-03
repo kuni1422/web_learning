@@ -7,7 +7,7 @@
     },
     "next": {
       "href": "http://local.com/articles?cursor=550a3114e771b70876a861c4",
-      "type": "application/json; version=1.0"
+      "type": "application/json; version=1.0.0"
     }
   },
   "meta": {},
